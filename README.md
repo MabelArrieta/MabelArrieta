@@ -11,7 +11,7 @@
 ## Sobre mi
 
 Soy estudiante de Platzi✏️ estoy aprendiendo de Inteligencia artificial y actualizando mi conocimientos🤖🚀.
-Me apasiona la tecnologia 💻 y la ciencia 🔬 la rama de la fitocosmetica🌿, me gusta hacer deporte y correr 🏃‍♀️, disfruto pasar un tiempo en la naturaleza y de una buena lectura 📚
+Me apasiona la tecnologia 💻 y la ciencia 🔬 la rama de la fitocosmetica🌿, me gusta hacer deporte y correr 🏃‍♀️, disfruto pasar tiempo en la naturaleza y de una buena lectura 📚
 
 ## Contacto
 
