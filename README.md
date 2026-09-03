@@ -20,5 +20,5 @@ Me apasiona la tecnologia 💻 y la ciencia 🔬 la rama de la fitocosmetica🌿
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.bing.com%2Fck%2Fa%3F!%26%26p%3D1b6c46f24df3d24de00ddec47eec094a2cc78c75a4024116404a094b2667b576JmltdHM9MTc4NTgwMTYwMA%26ptn%3D3%26ver%3D2%26hsh%3D4%26fclid%3D3e710fce-720d-6320-2c4e-1da973b46233%26psq%3Dfacebok%26u%3Da1aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tLw&up_color=yellow&style=for-the-badge)
 
 ## :zap: Actividad reciente
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update--> 
