@@ -21,12 +21,12 @@ Me apasiona la tecnologia 💻 y la ciencia 🔬 la rama de la fitocosmetica🌿
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [MabelArrieta/miPrimerPaquete](https://github.com/MabelArrieta/miPrimerPaquete)<br>
-2. ⬆️ Pushed undefined commit(s) to [MabelArrieta/MabelArrieta](https://github.com/MabelArrieta/MabelArrieta)<br>
-3. ⬆️ Pushed undefined commit(s) to [MabelArrieta/miTercerRepo](https://github.com/MabelArrieta/miTercerRepo)<br>
-4. 💪 Opened PR [#1](undefined) in [MabelArrieta/miTercerRepo](https://github.com/MabelArrieta/miTercerRepo)<br>
-5. ⬆️ Pushed undefined commit(s) to [MabelArrieta/MabelArrieta](https://github.com/MabelArrieta/MabelArrieta)<br>
+1. ✌️ Released [v0.1.0](https://github.com/MabelArrieta/miPrimerPaquete/releases/tag/v0.1.0) in [MabelArrieta/miPrimerPaquete](https://github.com/MabelArrieta/miPrimerPaquete)<br>
+2. ⬆️ Pushed undefined commit(s) to [MabelArrieta/miPrimerPaquete](https://github.com/MabelArrieta/miPrimerPaquete)<br>
+3. ⬆️ Pushed undefined commit(s) to [MabelArrieta/MabelArrieta](https://github.com/MabelArrieta/MabelArrieta)<br>
+4. ⬆️ Pushed undefined commit(s) to [MabelArrieta/miTercerRepo](https://github.com/MabelArrieta/miTercerRepo)<br>
+5. 💪 Opened PR [#1](undefined) in [MabelArrieta/miTercerRepo](https://github.com/MabelArrieta/miTercerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Friday, September 11th, 2026, 3:42:50 PM
+Last Updated: Saturday, September 12th, 2026, 2:43:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
