@@ -21,8 +21,7 @@ Me apasiona la tecnologia 💻 y la ciencia 🔬 la rama de la fitocosmetica🌿
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/MabelArrieta/miPrimerPaquete/releases/tag/v0.1.0) in [MabelArrieta/miPrimerPaquete](https://github.com/MabelArrieta/miPrimerPaquete)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Monday, October 12th, 2026, 3:52:44 AM
+Last Updated: Monday, October 12th, 2026, 8:46:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
